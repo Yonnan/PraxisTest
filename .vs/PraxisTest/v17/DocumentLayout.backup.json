@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\praxistest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\praxistest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\models\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\models\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\models\\beststorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\models\\beststorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\praxistest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\praxistest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\context\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\context\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PraxisTest.http",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\PraxisTest.http",
+              "RelativeDocumentMoniker": "PraxisTest\\PraxisTest.http",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\PraxisTest.http",
+              "RelativeToolTip": "PraxisTest\\PraxisTest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-13T22:48:18.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PraxisTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PraxisTest\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T22:48:12.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Output.cs",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\Output.cs",
+              "RelativeDocumentMoniker": "PraxisTest\\Models\\Output.cs",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\Output.cs",
+              "RelativeToolTip": "PraxisTest\\Models\\Output.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T22:09:41.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BestStorys.cs",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\BestStorys.cs",
+              "RelativeDocumentMoniker": "PraxisTest\\Models\\BestStorys.cs",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\BestStorys.cs",
+              "RelativeToolTip": "PraxisTest\\Models\\BestStorys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:15:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "PraxisTest\\Controllers\\StoryController.cs",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "PraxisTest\\Controllers\\StoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:37:05.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\appsettings.json",
+              "RelativeDocumentMoniker": "PraxisTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\appsettings.json",
+              "RelativeToolTip": "PraxisTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T05:27:38.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Context\\AppContext.cs",
+              "RelativeDocumentMoniker": "PraxisTest\\Context\\AppContext.cs",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Context\\AppContext.cs",
+              "RelativeToolTip": "PraxisTest\\Context\\AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:19:42.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "PraxisTest\\Models\\Story.cs",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\Story.cs",
+              "RelativeToolTip": "PraxisTest\\Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:12:37.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Program.cs",
+              "RelativeDocumentMoniker": "PraxisTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Program.cs",
+              "RelativeToolTip": "PraxisTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:01:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PraxisTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\PraxisTest.csproj",
+              "RelativeDocumentMoniker": "PraxisTest\\PraxisTest.csproj",
+              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\PraxisTest.csproj",
+              "RelativeToolTip": "PraxisTest\\PraxisTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T04:56:02.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
