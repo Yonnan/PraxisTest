@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\models\\beststorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\models\\beststorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\praxistest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\praxistest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -31,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\models\\beststorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\models\\beststorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\praxistest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\praxistest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|c:\\users\\johannan jasiel\\source\\repos\\praxistest\\praxistest\\context\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DC28351-B79F-48BE-8B81-57AB15C941F9}|PraxisTest\\PraxisTest.csproj|solutionrelative:praxistest\\context\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PraxisTest.http",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\PraxisTest.http",
               "RelativeDocumentMoniker": "PraxisTest\\PraxisTest.http",
               "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\PraxisTest.http",
               "RelativeToolTip": "PraxisTest\\PraxisTest.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-09-13T22:48:18.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PraxisTest\\Properties\\launchSettings.json",
@@ -84,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Output.cs",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\Output.cs",
               "RelativeDocumentMoniker": "PraxisTest\\Models\\Output.cs",
@@ -97,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "BestStorys.cs",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\BestStorys.cs",
               "RelativeDocumentMoniker": "PraxisTest\\Models\\BestStorys.cs",
@@ -110,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "StoryController.cs",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Controllers\\StoryController.cs",
               "RelativeDocumentMoniker": "PraxisTest\\Controllers\\StoryController.cs",
               "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Controllers\\StoryController.cs",
               "RelativeToolTip": "PraxisTest\\Controllers\\StoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T06:37:05.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\appsettings.json",
               "RelativeDocumentMoniker": "PraxisTest\\appsettings.json",
@@ -136,19 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppContext.cs",
-              "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Context\\AppContext.cs",
-              "RelativeDocumentMoniker": "PraxisTest\\Context\\AppContext.cs",
-              "ToolTip": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Context\\AppContext.cs",
-              "RelativeToolTip": "PraxisTest\\Context\\AppContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T05:19:42.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Story.cs",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Models\\Story.cs",
               "RelativeDocumentMoniker": "PraxisTest\\Models\\Story.cs",
@@ -161,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Johannan Jasiel\\source\\repos\\PraxisTest\\PraxisTest\\Program.cs",
               "RelativeDocumentMoniker": "PraxisTest\\Program.cs",
@@ -182,7 +166,8 @@
               "RelativeToolTip": "PraxisTest\\PraxisTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-13T04:56:02.522Z"
+              "WhenOpened": "2024-09-13T04:56:02.522Z",
+              "EditorCaption": ""
             }
           ]
         }
